@@ -21,7 +21,7 @@
 查询某个车队在某个时间段的违章统计信息。
 
 ## ER图设计
-![ER图](Bus_Management_System/ER图.png)
+![ER图](ER图.png)
 
 
 ## 程序开发环境及应用环境
